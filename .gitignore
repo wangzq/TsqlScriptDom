@@ -1,3 +1,9 @@
+bin
+obj
+packages
+Settings.SourceAnalysis
+*.suo
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
